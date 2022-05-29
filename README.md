@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pablo-webdev
-- 👀 Web development
+- 👀 Web developer
 - 🌱 I’m currently learning js, and bootstrap
 - 💞️ Looking to collaborate on everything
 
