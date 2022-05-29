@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pablo-webdev
-- 👀 I’m interested in web development
+- 👀 Web development
 - 🌱 I’m currently learning js, and bootstrap
-- 💞️ I’m looking to collaborate on everything
+- 💞️ Looking to collaborate on everything
 
 
 <!---
